@@ -11,7 +11,7 @@ body {
 
 .header-menu {
     position: fixed;
-    background-color: #222222;
+    background-color: rgba(34, 34, 34, 0.8);
     display: flex;
     justify-content: space-between;
     gap: 0;
